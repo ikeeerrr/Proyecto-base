@@ -4,3 +4,5 @@
 una de sus clases en una rama distinta.
 
 3.-nos creamos la carpeta github/workflow.
+
+4.-Hacemos los test en CalculadoraTest.java
